@@ -1,50 +1,68 @@
 # There Is No Right or Wrong Just Fun and Boring
 -- <cite>[Eugene Belford]</cite>
-<br /><br /><br />
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+<br /><br />
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/nathanabourbih/)
 
 A collection of information and resources that I or another contributor has personally used, recommends, or would like to share.
 
 Inspired by [Awesome](https://github.com/sindresorhus/awesome) and [Awesome .NET!](https://github.com/quozd/awesome-dotnet/).
 
 
-## Contents
+# Contents
 - [There Is No Right or Wrong Just Fun and Boring](#there-is-no-right-or-wrong-just-fun-and-boring)
-	- [Contents](#contents)
-	- [Software](#software)
-	- [Hardware](#hardware)
-	- [Projects](#projects)
-	- [Documentation](#documentation)
-	- [Articles](#articles)
-	- [Lists](#lists)
-	- [Networking](#networking)
-	- [License](#license)
+- [Contents](#contents)
+- [Resources](#resources)
+	- [Information Technology](#information-technology)
+	- [Education](#education)
+- [License](#license)
 	- [Contributing](#contributing)
 
-## Software
-- [Title](https://github.com/) - Info
+# Resources
 
-## Hardware
-- [Title](https://github.com/) - Info
+## Information Technology
+- Cloud Platforms
+  - [Title](https://github.com/) - Info
 
-## Projects
-- [Title](https://github.com/) - Info
+- Virtualization
+  - [Title](https://github.com/) - Info
+  
+- Monitoring
+  - [Title](https://github.com/) - Info
+  
+- Networking
+  - [Title](https://github.com/) - Info
+   
+- Documentation
+  - [Title](https://github.com/) - Info
 
-## Documentation
-- [Title](https://github.com/) - Info
+- Projects
+  - [Title](https://github.com/) - Info
 
-## Articles
-- [Title](https://github.com/) - Info
+- Articles
+  - [Title](https://github.com/) - Info
 
-## Lists
-- [Title](https://github.com/) - Info
+- Lists
+  - [Title](https://github.com/) - Info
 
-## Networking
+## Education
+- Methodologies
+  - [Title](https://github.com/) - Info
+  
+- Strategies
+  - [Title](https://github.com/) - Info
 
-- [GNS3](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+- Tools
+  - [Title](https://github.com/) - Info
+  
+- Articles
+  - [Title](https://github.com/) - Info
+  
+- Lists
+  - [Title](https://github.com/) - Info
 
-## License
+
+
+# License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 Copyright 2019 Nathan Abourbih
